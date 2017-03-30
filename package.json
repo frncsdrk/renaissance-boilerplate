@@ -22,17 +22,11 @@
   },
   "homepage": "https://github.com/frncsdrk/renaissance-boilerplate#readme",
   "dependencies": {
-    "jasmine-core": "^2.5.2",
-    "renaissance": "^0.2.1",
+    "renaissance": "^0.3.0",
+    "renaissance-test": "^0.1.0",
+    "renaissance-test-html-reporter": "^0.1.0",
     "requirejs": "^2.3.3",
     "requirejs-text": "^2.0.15"
   },
-  "devDependencies": {
-    "karma": "^1.5.0",
-    "karma-chrome-launcher": "^2.0.0",
-    "karma-cli": "^1.0.1",
-    "karma-firefox-launcher": "^1.0.0",
-    "karma-jasmine": "^1.1.0",
-    "karma-requirejs": "^1.1.0"
-  }
+  "devDependencies": {}
 }
