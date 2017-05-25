@@ -7,7 +7,7 @@ define(
         , 'renaissance-test-html-reporter'
 
         // specs
-        //
+        , 'spec/example.spec.js'
     ]
     , function(renaissance, test, htmlReporter) {
           function init() {
