@@ -6,7 +6,7 @@ Boilerplate for renaissance adapters and plugins
 
 - `npm install`
 - `npm run build`
-- Open `index.html` in browser
+- `npm test`
 
 ## License
 
