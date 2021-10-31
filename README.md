@@ -1,10 +1,6 @@
 # renaissance-boilerplate
 
-boilerplate for renaissance adapters and plugins
-
-## Requirements
-
-- live-server - `npm i -g live-server`
+Boilerplate for renaissance adapters and plugins
 
 ## Usage
 
